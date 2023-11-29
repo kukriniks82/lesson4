@@ -1,0 +1,14 @@
+C:\Users\a.nadolsky\source\repos\ForTests\obj\Debug\net8.0\ForTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.nadolsky\source\repos\ForTests\obj\Debug\net8.0\ForTests.AssemblyInfoInputs.cache
+C:\Users\a.nadolsky\source\repos\ForTests\obj\Debug\net8.0\ForTests.AssemblyInfo.cs
+C:\Users\a.nadolsky\source\repos\ForTests\obj\Debug\net8.0\ForTests.csproj.CoreCompileInputs.cache
+C:\Users\a.nadolsky\source\repos\ForTests\bin\Debug\net8.0\ForTests.exe
+C:\Users\a.nadolsky\source\repos\ForTests\bin\Debug\net8.0\ForTests.deps.json
+C:\Users\a.nadolsky\source\repos\ForTests\bin\Debug\net8.0\ForTests.runtimeconfig.json
+C:\Users\a.nadolsky\source\repos\ForTests\bin\Debug\net8.0\ForTests.dll
+C:\Users\a.nadolsky\source\repos\ForTests\bin\Debug\net8.0\ForTests.pdb
+C:\Users\a.nadolsky\source\repos\ForTests\obj\Debug\net8.0\ForTests.dll
+C:\Users\a.nadolsky\source\repos\ForTests\obj\Debug\net8.0\refint\ForTests.dll
+C:\Users\a.nadolsky\source\repos\ForTests\obj\Debug\net8.0\ForTests.pdb
+C:\Users\a.nadolsky\source\repos\ForTests\obj\Debug\net8.0\ForTests.genruntimeconfig.cache
+C:\Users\a.nadolsky\source\repos\ForTests\obj\Debug\net8.0\ref\ForTests.dll
